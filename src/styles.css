@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+* {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.2px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.color-1 {
+  color: #737373 !important;
+}
+.rounded-8 {
+  border-radius: 8px !important;
+}
+
+.line-left, .line-right {
+  height: 1px;
+  width: 100%;
+  background-color: rgb(219, 219, 219);
+}
