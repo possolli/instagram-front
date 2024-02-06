@@ -1,4 +1,6 @@
 # Instagram Clone - Development and Learning Project 🚀
+![image](https://github.com/possolli/instagram-front/assets/147679833/325905a0-a54a-4bfb-b4e7-909222149135)
+
 
 ## About the Project
 
